@@ -1,0 +1,44 @@
+body {
+  background-color: #594a41;
+}
+
+h1,
+h2,
+h3 {
+  color: white;
+}
+h2 {
+  text-align: left;
+  font-size: 28px;
+}
+h3 {
+  font-size: 24px;
+}
+.general_ed {
+  background-color: #b8775d;
+}
+.general_ed li {
+  background-color: white;
+}
+
+.general_ed ul li {
+  background-color: whitesmoke;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.spefic {
+  background-color: #b8775d;
+}
+
+.spefic ul li {
+  background-color: whitesmoke;
+}
+
+.spefic .passed {
+  background-color: #af735a;
+}
